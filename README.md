@@ -4,11 +4,6 @@ Welcome to the **IPL EDA Project**, where cricket meets data! This project dives
 
 ---
 
-## 📘 Downloads
-
-- [Download Visualization PDF](#) – Summary of all visualizations 📄  
-- [Download EDA FULL VIEW HTML](#) – Full EDA code with interactive charts  
-- [Download EDA FULL VIEW PDF](#) – In-depth visual summary  
 
 ---
 
